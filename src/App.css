@@ -1,0 +1,58 @@
+
+body{
+  background-color:#F2F2F2;
+}
+
+.App {
+  text-align: left;
+  margin-left: 10px;
+  background-color: #F2F2F2;
+}
+.card{
+  width: 18rem;
+  margin-bottom: 15px;
+  background-color: white;
+}
+.button-con{
+  display: flex;
+  flex-wrap: wrap;
+  width:100%
+}
+.button{
+  flex: 0 40%;
+  margin: 10px
+}
+.header {
+  color: #0A0A0A;
+  
+
+}
+.App-loader-box {
+  position: relative;
+  text-align: center;
+  max-width: 100%;
+  height: auto;
+}
+.App-loader-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.App-filter-heading-launch-year {
+  text-align: center;
+  margin-top: -1rem;
+}
+.App-filters-hr {
+  margin: 0.4rem;
+}
+p
+{
+  
+text-align: center;
+
+
+}
+
+
+
